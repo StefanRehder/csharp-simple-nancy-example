@@ -1,1 +1,2 @@
-"# csharp-simple-nancy-example" 
+# csharp-simple-nancy-example
+Experiments with Nancyfx.
